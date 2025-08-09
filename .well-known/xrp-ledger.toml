@@ -7,7 +7,7 @@ code = "KUNA"
 issuer = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe"
 name = "Kovanica"
 desc = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!"
-icon = "https://github.com/KovanicaKN/kovanica-toml/blob/main/kuna_logo.png"
+icon = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-logo.png"
 website = "https://kovanica.net/"
 
 [[PRINCIPALS]]
