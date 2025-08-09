@@ -3,16 +3,16 @@ CURRENCIES = [
     code = "KUNA", 
     issuer = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe", 
     description = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!", 
-    icon = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-logo.png",
-    website = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/.well-known/xrp-ledger.toml"
+    icon = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-logo.png",
+    website = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/.well-known/xrp-ledger.toml"
   }
 ]
 
 [DOCUMENTATION]
-WHITEPAPER_HR = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kovanica-whitepaper-hr.pdf"
-WHITEPAPER_EN = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kovanica-whitepaper-en.pdf"
-TOKENOMICS_HR = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-tokenomics-hr.pdf"
-TOKENOMICS_EN = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-tokenomics-en.pdf"
+WHITEPAPER_HR = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kovanica-whitepaper-hr.pdf"
+WHITEPAPER_EN = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kovanica-whitepaper-en.pdf"
+TOKENOMICS_HR = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-tokenomics-hr.pdf"
+TOKENOMICS_EN = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-tokenomics-en.pdf"
 
 [PROJECT]
 name = "Kovanica"
