@@ -1,18 +1,18 @@
 [[ACCOUNTS]]
 address = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe"
-desc = "Issuer wallet za Kovanica token"
+desc = "Issuer wallet za KUNA token"
 
 [[CURRENCIES]]
 code = "KUNA"
 issuer = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe"
 name = "Kovanica"
-desc = "Utility-Meme $KUNA – nostalgična, bezvrijedna, nezaustavljiva!"
-icon = "https://kovanica.net/wp-content/uploads/2025/08/cropped-wp-1754256112040.png"
+desc = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!"
+icon = "https://github.com/KovanicaKN/kovanica-toml/blob/main/kuna_logo.png"
 website = "https://kovanica.net/"
 
 [[PRINCIPALS]]
 name = "Kovanica"
 email = "antonio@kovanica.net"
 telegram = "https://t.me/kovanicahr"
-twitter = "@ProjektKovanica"
+x = "@ProjektKovanica"
 discord = "https://discord.gg/TbzS59haeV"
