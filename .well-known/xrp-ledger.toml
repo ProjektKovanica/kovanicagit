@@ -1,18 +1,31 @@
-[[ACCOUNTS]]
-address = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe"
-desc = "Issuer wallet za KUNA token"
+CURRENCIES = [
+  { 
+    code = "KUNA", 
+    issuer = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe", 
+    description = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!", 
+    icon = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-logo.png",
+    website = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/.well-known/xrp-ledger.toml"
+  }
+]
 
-[[CURRENCIES]]
-code = "KUNA"
-issuer = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe"
-name = "Kovanica"
-desc = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!"
-icon = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-logo.png"
-website = "https://kovanica.net/"
+[DOCUMENTATION]
+WHITEPAPER_HR = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kovanica-whitepaper-hr.pdf"
+WHITEPAPER_EN = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kovanica-whitepaper-en.pdf"
+TOKENOMICS_HR = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-tokenomics-hr.pdf"
+TOKENOMICS_EN = "https://github.com/ProjektKovanica/kovanica-toml/blob/main/kuna-tokenomics-en.pdf"
 
-[[PRINCIPALS]]
+[PROJECT]
 name = "Kovanica"
-email = "antonio@kovanica.net"
-telegram = "https://t.me/kovanicahr"
+website = "https://github.com/ProjektKovanica"
+description = "Kovanica je inicijativa koja u Hrvatskoj potiče širenje i popularizaciju XRP Ledgera (XRPL) kroz svakodnevne primjene i inovativna rješenja."
+founder = "bettercall.dzuks"
+founder_contact = "kovanicahr@proton.me"
+
+[SOCIAL]
 x = "@ProjektKovanica"
 discord = "https://discord.gg/TbzS59haeV"
+telegram = "https://t.me/kovanicahr"
+github = "https://github.com/ProjektKovanica"
+
+[ACCOUNTS]
+support_account = "rPcGaKCVhu63vi2GQnso4bipeaL5Z7WZAu"
