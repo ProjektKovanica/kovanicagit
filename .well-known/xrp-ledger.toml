@@ -4,7 +4,7 @@ CURRENCIES = [
     issuer = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe", 
     description = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!", 
     icon = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-logo.png",
-    website = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/.well-known/xrp-ledger.toml"
+    website = "https://raw.githubusercontent.com/ProjektKovanica/kovanica-toml/refs/heads/main/.well-known/xrp-ledger.toml"
   }
 ]
 
