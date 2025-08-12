@@ -4,15 +4,22 @@ CURRENCIES = [
     issuer = "rn5bAQZmZaeDddhKfEh1FqVNQv7pU4nkKe", 
     description = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!", 
     icon = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-logo.png",
-    website = "https://github.com/ProjektKovanica/kovanica-toml/refs/heads/main/.well-known/xrp-ledger.toml"
+    website = "https://github.com/ProjektKovanica/kovanica-toml/raw/heads/main/.well-known/xrp-ledger.toml"
+  },
+  { 
+    code = "KOV",
+    issuer = "r3w5Gjv49ZM5LGfqsNZzAaPN6ARzhmVd9c", 
+    description = "$KOV - službeni token projekta Kovanica",
+    icon = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kov-logo.png",
+    website = "https://github.com/ProjektKovanica/kovanica-toml/raw/heads/main/.well-known/xrp-ledger.toml"
   }
 ]
 
 [DOCUMENTATION]
 WHITEPAPER_HR = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kovanica-whitepaper-hr.pdf"
 WHITEPAPER_EN = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kovanica-whitepaper-en.pdf"
-TOKENOMICS_HR = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-tokenomics-hr.pdf"
-TOKENOMICS_EN = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-tokenomics-en.pdf"
+KUNA_TOKENOMICS_HR = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-tokenomics-hr.pdf"
+KUNA_TOKENOMICS_EN = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-tokenomics-en.pdf"
 
 [PROJECT]
 name = "Kovanica"
