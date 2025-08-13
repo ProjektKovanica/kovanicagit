@@ -5,13 +5,6 @@ CURRENCIES = [
     description = "$KUNA – nostalgična, bezvrijedna, nezaustavljiva!", 
     icon = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kuna-logo.png",
     website = "https://github.com/ProjektKovanica/kovanica-toml/raw/heads/main/.well-known/xrp-ledger.toml"
-  },
-  { 
-    code = "KOV",
-    issuer = "r3w5Gjv49ZM5LGfqsNZzAaPN6ARzhmVd9c", 
-    description = "$KOV - službeni token projekta Kovanica",
-    icon = "https://github.com/ProjektKovanica/kovanica-toml/raw/main/kov-logo.png",
-    website = "https://github.com/ProjektKovanica/kovanica-toml/raw/heads/main/.well-known/xrp-ledger.toml"
   }
 ]
 
