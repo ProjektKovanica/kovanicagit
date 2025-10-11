@@ -1,2 +1,1 @@
-# kovanica-toml
-XRPL Verification
+# projekt-kovanica
