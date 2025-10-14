@@ -1,0 +1,105 @@
+KUNA Tokenomics
+1. Osnovne informacije
+
+Naziv tokena: KUNA
+
+Ticker: $KUNA
+
+Kontrakt adresa: EQBQXCBAUjvoSehSt1XjH88KooOmvEHfKdSmQq1cQoiDm3Io
+
+Ukupni supply: 1.000.000.000 $KUNA
+
+Efektivni supply nakon burna: 900.000.000 $KUNA
+
+Blockchain: TON
+
+Tip tokena: Utility / Community
+Projekt: @ProjektKovanica
+
+2. Distribucija tokena
+Kategorija	Udio	Broj tokena	Opis
+Presale	20%	200.000.000	Inicijalna prodaja za prikupljanje kapitala i stvaranje likvidnosti.
+Tap Mining	10%	100.000.000	Nagrade kroz interaktivni mining bot i kampanje za rast korisničke baze.
+Community / Airdrop	10%	100.000.000	Referral nagrade, questovi, marketing kampanje i programi za rane podržavatelje.
+Burn Pool	10%	100.000.000	Deflacijski mehanizam za smanjenje supplya i jačanje vrijednosti tokena.
+Likvidnosni fond	25%	250.000.000	Osigurava stabilnost cijene kroz likvidnost na DEX platformama (npr. STON.fi).
+Tim i osnivači	10%	100.000.000	Vesting period od 24–36 mjeseci radi dugoročne stabilnosti i sigurnosti investitora.
+Treasury / DAO	10%	100.000.000	Budući razvoj, grantovi i decentralizirano upravljanje zajednicom.
+Partnerstva i savjetnici	5%	50.000.000	Suradnje, partnerstva i širenje ekosustava.
+Ukupno (nakon burna)	100%	900.000.000	
+3. Deflacijski mehanizam
+
+Radi očuvanja dugoročne vrijednosti i stabilnosti ekosustava, KUNA koristi transparentan i održiv deflacijski model:
+
+Početni burn:
+Po lansiranju projekta, 100.000.000 $KUNA trajno je spaljeno iz Community/Airdrop fonda.
+Efektivni supply nakon burna iznosi 900.000.000 $KUNA.
+
+Transakcijski burn fee:
+Na svaku transakciju unutar ekosustava primjenjuje se naknada od 0,5%, koja se automatski šalje na javnu burn adresu.
+Ovim modelom supply se postupno i organski smanjuje aktivnošću korisnika.
+
+Transparentnost:
+Burn adresa je javna i dostupna svima za praćenje u stvarnom vremenu.
+
+Cilj: održivo smanjenje cirkulirajuće količine tokena uz kontroliran deflacijski pritisak, bez potrebe za dodatnim “event burnovima”.
+
+4. Staking program — KUNA Power Pool
+
+KUNA Power Pool potiče lojalnost holdera i stabilnost tržišta kroz sustav nagrađivanja stakingom.
+
+Izvor nagrada: Treasury/DAO fond i dio Tap Mining nagrada
+
+Lock period: fleksibilan (30 / 90 / 180 dana)
+
+Nagrade: dulji lock period donosi viši prinos (APY)
+
+Reinvest opcija: automatsko reinvestiranje nagrada
+
+Anti-dump zaštita: naknada za rano povlačenje smanjuje kratkoročne špekulacije
+
+Bonus za NFT holdere: dodatni prinos kroz planirani KUNA NFT Miner
+
+Cilj programa: nagraditi dugoročne stake-ere, smanjiti cirkulaciju i potaknuti održivo tržište.
+
+5. Misija i vizija projekta
+
+Projekt @ProjektKovanica nije zamišljen kao još jedan Web3 eksperiment, već kao pokret koji povezuje tradiciju i inovaciju.
+Fokusiran je na razvoj unutar TON ekosustava, koji se temelji na:
+
+brzoj i skalabilnoj blockchain infrastrukturi,
+
+otvorenim alatima za razvoj i eksperimentiranje,
+
+decentraliziranom pristupu s naglaskom na zajednicu.
+
+Kroz Tap Mining, staking i pažljivo osmišljenu tokenomiku, cilj projekta je motivirati korisnike da aktivno sudjeluju, istražuju i stvaraju unutar blockchain prostora.
+
+6. Zašto baš $KUNA?
+
+$KUNA nije samo token — to je nostalgičan podsjetnik na hrvatsku valutu HRK, simbol jednog razdoblja koje je oblikovalo svakodnevni život mnogih.
+
+Filozofija projekta:
+Staro ime. Nova tehnologija. Zajednica u središtu.
+
+TON blockchain izabran je zbog svoje brzine, razvojnih mogućnosti i snažne zajednice.
+KUNA predstavlja most između tradicionalnog i digitalnog svijeta — između onoga što smo imali i onoga što tek stvaramo.
+
+7. Pravna i marketinška napomena
+
+KUNA nije financijski instrument niti investicijski savjet.
+Projekt ne garantira profit, već promiče edukaciju i razvoj blockchain zajednice.
+Ulaganje u $KUNA provodi se isključivo na vlastitu odgovornost.
+Naš cilj nije obećavati nemoguće, već graditi održiv ekosustav s pravom svrhom.
+
+8. Sažetak
+
+Deflacijski model s ugrađenom naknadom od 0,5% po transakciji
+
+Jasna i fer distribucija tokena
+
+Fokus na TON ekosustav i edukaciju korisnika
+
+Staking i NFT mehanizmi kao dodatna vrijednost zajednici
+
+Spoj nostalgičnog identiteta i moderne tehnologije
